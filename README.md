@@ -1,7 +1,7 @@
 # Introduction  
 Some resources for Pytorch
 
-## `pytorch/__init__.pyi`
+## pytorch/\_\_init\_\_.pyi
 
 `pytorch/__init__.pyi` is the file to solve the problem:
 there is no code hints for Pytorch in Pycharm.
@@ -14,7 +14,7 @@ is modified from the `__init__.pyi` of Pytorch 1.0.1.post2)
 * Replace `site-packages/torch/__init__.pyi` with download one.
 
 
-## `caffe/__init__.pyi`
+## caffe/\_\_init\_\_.pyi
 
 `caffe/__init__.pyi` is the file to solve the problem:
 there is no code hints for caffe in Pycharm.
