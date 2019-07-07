@@ -8,9 +8,9 @@ there is no code hints for Pytorch in Pycharm.
 
 Steps:
 * Upgrade Pycharm to 2019.1.1
-* Download `pytorch/__init__.pyi`
-* Upgrade Pytorch to 1.0.1.post2 (the `__init__.pyi` in this project
-is modified from the `__init__.pyi` of Pytorch 1.0.1.post2)
+* Download `pytorch/pytorch_version/__init__.pyi`
+* Upgrade Pytorch to [pytorch_version] (the `__init__.pyi` in this project
+is modified from the `__init__.pyi` of Pytorch [pytorch_version])
 * Replace `site-packages/torch/__init__.pyi` with download one.
 
 
